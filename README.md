@@ -3,7 +3,7 @@ Develop object tracking algorithm for my drone
 
 Implemented Tracker: LightTrack
 
-# Preparation
+## Preparation
 
 Requirements: opencv, tensorrt, realsense2, cuda
 
